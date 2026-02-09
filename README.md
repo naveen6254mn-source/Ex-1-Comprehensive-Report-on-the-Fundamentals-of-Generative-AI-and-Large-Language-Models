@@ -65,5 +65,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Output:
 
+[Fundamentals of Generative AI and Large Language Models.docx](https://github.com/user-attachments/files/25180958/Fundamentals.of.Generative.AI.and.Large.Language.Models.docx)
+
 
 Result:
